@@ -1,0 +1,6 @@
+{
+  "executor": "online",
+  "chat": "online",
+  "external": "offline",
+  "hub": "online"
+}
